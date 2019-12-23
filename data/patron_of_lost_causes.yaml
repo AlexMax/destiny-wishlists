@@ -1,0 +1,19 @@
+- name: Patron of Lost Causes
+  source: https://www.reddit.com/r/sharditkeepit/comments/eazb6x/sundial_weapons_mnk_breakdown/
+  perks:
+    - - Hammer-Forged Rifling
+      - Smallbore
+      - Corkscrew Rifling (PvE)
+      - Fluted Barrel (PvP)
+    - - Tactical Mag
+      - Appended Mag (PvE)
+      - Accurized Rounds (PvP)
+    - - Rapid Hit
+      - Full Auto Trigger System (PvE)
+    - - Vorpal Weapon
+      - Explosive Payload
+      - Osmosis (PvE)
+      - Opening Shot (PvP)
+  masterworks:
+    - Reload (PvE)
+    - Range (PvP)
