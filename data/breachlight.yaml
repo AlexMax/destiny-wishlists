@@ -1,5 +1,7 @@
 - name: Breachlight
-  source: https://www.reddit.com/r/sharditkeepit/comments/eazb6x/sundial_weapons_mnk_breakdown/
+  source: |
+    https://www.reddit.com/r/sharditkeepit/comments/eazb6x/sundial_weapons_mnk_breakdown/
+    https://www.reddit.com/r/sharditkeepit/comments/eazbhn/sundial_weapons_controller_breakdown/
   perks:
     - - Smallbore
       - Hammer-Forged Rifling
