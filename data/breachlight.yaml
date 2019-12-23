@@ -1,0 +1,19 @@
+- name: Breachlight
+  source: https://www.reddit.com/r/sharditkeepit/comments/eazb6x/sundial_weapons_mnk_breakdown/
+  perks:
+    - - Smallbore
+      - Hammer-Forged Rifling
+      - Fluted Barrel (PvE)
+      - Extended Barrel (PvP)
+    - - Appended Mag
+      - Tactical Mag (PvE)
+      - Accurized Rounds (PvP)
+    - - Demolitionist
+      - Outlaw
+    - - Quickdraw
+      - Vorpal Weapon
+      - Multikill Clip
+      - Osmosis (PvE)
+  masterworks:
+    - Reload (PvE)
+    - Range (PvP)
